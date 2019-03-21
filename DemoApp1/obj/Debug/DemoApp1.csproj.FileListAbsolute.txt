@@ -1,0 +1,7 @@
+C:\Users\cuong\Desktop\Wepapp\app1\DemoApp1\DemoApp1\bin\Debug\DemoApp1.exe.config
+C:\Users\cuong\Desktop\Wepapp\app1\DemoApp1\DemoApp1\bin\Debug\DemoApp1.exe
+C:\Users\cuong\Desktop\Wepapp\app1\DemoApp1\DemoApp1\bin\Debug\DemoApp1.pdb
+C:\Users\cuong\Desktop\Wepapp\app1\DemoApp1\DemoApp1\obj\Debug\DemoApp1.csprojAssemblyReference.cache
+C:\Users\cuong\Desktop\Wepapp\app1\DemoApp1\DemoApp1\obj\Debug\DemoApp1.csproj.CoreCompileInputs.cache
+C:\Users\cuong\Desktop\Wepapp\app1\DemoApp1\DemoApp1\obj\Debug\DemoApp1.exe
+C:\Users\cuong\Desktop\Wepapp\app1\DemoApp1\DemoApp1\obj\Debug\DemoApp1.pdb
